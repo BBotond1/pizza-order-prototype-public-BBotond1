@@ -1,0 +1,13 @@
+[
+  { "Primavera": "1" },
+  { "Prosciutto": "1" },
+  { "Salami": "1" },
+  { "orderSum": "60" },
+  { "orderDate": "Fri Nov 11 2022 10:45:43 GMT+0200 (kelet-európai téli idő)" },
+  ["name", "Gipsz Jakab"],
+  ["phone", "06309341849"],
+  ["zip", "3"],
+  ["city", "Vecsés"],
+  ["street", "tttttttttttttttt"],
+  ["house", "12"]
+]

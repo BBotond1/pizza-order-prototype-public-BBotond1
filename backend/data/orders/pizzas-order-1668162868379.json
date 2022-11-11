@@ -1,0 +1,13 @@
+[
+  { "Primavera": "1" },
+  { "Prosciutto": "1" },
+  { "Salami": "1" },
+  { "orderSum": "60" },
+  { "orderDate": "Fri Nov 11 2022 12:34:28 GMT+0200 (kelet-európai téli idő)" },
+  ["name", "Botond"],
+  ["phone", "06309341849"],
+  ["zip", "1162"],
+  ["city", "Budapest"],
+  ["street", "utca"],
+  ["house", "11"]
+]
