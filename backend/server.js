@@ -3,6 +3,7 @@ const path = require('path')
 const fs = require('fs')
 
 const app = express()
+const port = 2211;
 
 app.use(express.json()) 
 
@@ -39,4 +40,4 @@ app.get('/pizza', (req, res) => {
 }) 
 
 
-app.listen(2000, console.log('server listening on http://127.0.0.1:2000'))
+app.listen(port, console.log(`server listening on http://127.0.0.1:${port}`))
