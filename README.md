@@ -1,1 +1,4 @@
-https://www.figma.com/file/X1Sdtu7Z6xXarrixhcTJXt/FearTheBackend---pizza-order?node-id=0%3A1
+# Start this app
+1. Enter "backend" folder
+2. Run "npm i" command
+3. Run "node server.js" command
